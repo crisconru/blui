@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:crisconru/blui-core
+[submodule "mcu"]
+	path = mcu
+	url = git@github.com:crisconru/blui-mcu
